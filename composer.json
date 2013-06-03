@@ -2,14 +2,18 @@
     "name": "notomato/li3_whoops",
     "type": "lithium-library",
     "description": "This plugin adds whoops exception handling to lithium.",
-    "keywords": ["exceptions"],
-    "homepage": "https://github.com/UnionOfRAD/li3_queue",
+    "keywords": ["exceptions", "lithium", "li3"],
+    "homepage": "https://github.com/notomato/li3_whoops",
     "license": "MIT License",
     "authors": [
         {
             "name": "Christian Foster",
             "email": "christian.foster@gmail.com",
             "homepage": "http://christianfoster.com/"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/notomato/li3_whoops/contributors"
         }
     ],
     "require": {
