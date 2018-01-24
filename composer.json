@@ -4,7 +4,7 @@
     "description": "This plugin adds whoops exception handling to lithium.",
     "keywords": ["exceptions", "lithium", "li3"],
     "homepage": "https://github.com/notomato/li3_whoops",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Christian Foster",
